@@ -1,6 +1,6 @@
 <template>
-    <div class="shadow-md bg-grey-400 w-80 h-60 rounded-md">
-        <div class="text-4xl font-bold p-3">
+    <div class="shadow-md rounded-md">
+        <div class="text-xl font-bold p-3 text-left lg:text-left sm:text-center">
             Title
         </div>
         <div class="p-3">
